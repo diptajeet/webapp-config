@@ -1,1 +1,1 @@
-# webapp-config
+# Simple web application configuration
